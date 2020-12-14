@@ -1,0 +1,15 @@
+IMPORTANT FOLDERS IN LINUX
+
+ETC -> where configure files live
+
+VAR -> for variable files,where the file change in size over time
+
+BIN -> where executable binaries are stored
+
+SBIN -> contains the similar files just like BIN but handled by system adminstrator or super user
+
+USR -> for user's programs
+
+UNDERSTANDING $PATH 
+--------------------
+It helps to make the shorcuts the binary executable files

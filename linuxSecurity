@@ -1,0 +1,13 @@
+LINUX SECURITY
+---------------
+
+SUDO VS SU
+-----------
+
+
+
+* ALWAYS KEEP YOUR SYSTEM UPTO DATE
+
+sudo apt-get update
+
+sudo apt-get upgrade
